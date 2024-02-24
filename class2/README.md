@@ -6,3 +6,5 @@
 * Indentation
 * Comments
 * Variable
+### Home Work
+First, declare five variables and then print their values to show the output.
